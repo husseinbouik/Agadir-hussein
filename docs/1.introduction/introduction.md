@@ -6,7 +6,7 @@ order: 1
 
 # Introduction
 
-![alt text](images/introduction.jpg) *Figure 1: Introduction*
+![alt text](images/introduction.jpg){:width="500px"} *Figure 1: Introduction*
 <!-- ![alt text](images/introduction.jpg) -->
 
 <!-- note -->

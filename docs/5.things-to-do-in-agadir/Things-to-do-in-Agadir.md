@@ -6,9 +6,8 @@ order: 5
 
 # Things to do in Agadir
 
-![Agadir]({{site.baseurl}}/5.things-to-do-in-agadir/images/Things-to-do-in-Agadir.jpg)*Figure 4: Things to do in Agadir*
+![Agadir]({{site.baseurl}}/5.things-to-do-in-agadir/images/Things-to-do-in-Agadir.jpg){:width="500px"}*Figure 4: Things to do in Agadir*
 
-<!-- new slide -->
 
 <!-- note -->
 

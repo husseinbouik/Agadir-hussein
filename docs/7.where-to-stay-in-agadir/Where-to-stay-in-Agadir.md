@@ -4,7 +4,7 @@ chapitre: Where to stay in Agadir
 order: 7
 ---
 # Where to stay in Agadir
-![Agadir]({{site.baseurl}}/7.where-to-stay-in-agadir/images/Where-to-stay-in-Agadir.jpg)*Figure 6: Where to stay in Agadir*
+![Agadir]({{site.baseurl}}/7.where-to-stay-in-agadir/images/Where-to-stay-in-Agadir.jpg){:width="500px"}*Figure 6: Where to stay in Agadir*
 
 <!-- new slide -->
 

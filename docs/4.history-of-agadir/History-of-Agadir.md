@@ -5,7 +5,7 @@ order: 4
 ---
 
 # History of Agadir
-![Agadir]({{site.baseurl}}/4.history-of-agadir/images/agadir-history.jpg)*Figure 3: Agadir*
+![Agadir]({{site.baseurl}}/4.history-of-agadir/images/agadir-history.jpg){:width="500px"}*Figure 3: Agadir*
 
 
 <!-- note -->

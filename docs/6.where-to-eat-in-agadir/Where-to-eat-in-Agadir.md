@@ -5,9 +5,8 @@ order: 6
 ---
 
 # Where to eat in Agadir
-![Agadir]({{site.baseurl}}/6.where-to-eat-in-agadir/images/Where-to-eat-in-Agadir.jpg)*Figure 5: Where to eat in Agadir*
+![Agadir]({{site.baseurl}}/6.where-to-eat-in-agadir/images/Where-to-eat-in-Agadir.jpg){:width="500px"}*Figure 5: Where to eat in Agadir*
 
-<!-- new slide -->
 
 <!-- note -->
 
